@@ -18,11 +18,12 @@ The idea behind the project is to collect and organize learning resources that c
 .
 ├── .github/                  # Issue and pull request templates
 ├── docs/                     # Proposal, reflection, audit log, and work plan
+├── governance/               # Code of Conduct and Contributing guide
 ├── resources/                # Resource catalogue and category files
 │   ├── categories/
+│   ├── local-language/
 │   └── resource-database.csv
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
+├── scripts/                  # Utility scripts (Search tool)
 ├── LEGAL_ANALYSIS.md
 ├── LICENSE
 ├── README.md
@@ -36,14 +37,16 @@ The idea behind the project is to collect and organize learning resources that c
 - [Teacher Training](resources/categories/teacher-training.md)
 - [Civic Education](resources/categories/civic-education.md)
 - [Local Language Support](resources/categories/local-language-support.md)
+- [Luganda Summary](resources/local-language/luganda-summary.md)
 
-The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv).
+The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv). You can search it using the [search_resources.py](scripts/search_resources.py) script.
 
 ## Contributing
 
 Contributors should open an issue first, create a branch for the work, make a focused change, and then submit a pull request for review. This workflow is part of the exam requirement and also reflects normal open source practice.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full process.
+See [governance/CONTRIBUTING.md](governance/CONTRIBUTING.md) for the full process.
+
 
 ## License
 
