@@ -1,5 +1,11 @@
-# Teacher Training
+---
+title: Teacher Training
+last_updated: 2026-05-08
+status: verified
+maintainer: Bazzenkya Francis
+---
 
+# Teacher Training
 Teacher training resources help educators evaluate, adapt, and share open educational resources.
 
 ## Included Resources

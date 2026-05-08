@@ -1,5 +1,11 @@
-# Digital Literacy
+---
+title: Digital Literacy
+last_updated: 2026-05-08
+status: verified
+maintainer: Bazzenkya Francis
+---
 
+# Digital Literacy
 Digital literacy resources help learners use computers, mobile devices, files, and the internet responsibly.
 
 ## Included Resources

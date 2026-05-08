@@ -1,5 +1,11 @@
-# Civic Education
+---
+title: Civic Education
+last_updated: 2026-05-08
+status: verified
+maintainer: Bazzenkya Francis
+---
 
+# Civic Education
 Civic education resources support awareness of rights, responsibilities, public services, and community participation.
 
 ## Included Resources
