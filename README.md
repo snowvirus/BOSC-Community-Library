@@ -51,4 +51,6 @@ This project uses the Apache License 2.0. See [LICENSE](LICENSE) and [LEGAL_ANAL
 
 ## Maintainer
 
-Maintained as part of my Open Source Software coursework at Bugema University.
+Maintainer: Bazzenkya Francis  
+Registration Number: 23/BSE/BU/R/0005  
+Course: Bachelor of Science in Software Engineering, Bugema University

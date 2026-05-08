@@ -1,0 +1,7 @@
+id,title,category,provider,access,license,target_audience,connectivity,description,status
+DL-001,Digital Safety Basics,Digital Literacy,Community ICT Desk,resources/categories/digital-literacy.md,CC BY 4.0,Secondary learners,Low bandwidth,Introductory guidance on safe device and internet use,Verified
+DL-002,Keyboard And File Management,Digital Literacy,Community ICT Desk,resources/categories/digital-literacy.md,CC BY 4.0,Beginner computer users,Offline friendly,Practice topics for keyboard use folders and file naming,Verified
+SCI-001,Open Science Reading List,Open Science,BOSC Maintainers,resources/categories/open-science.md,Open access,Secondary learners and teachers,Low bandwidth,Curated science learning sources and practical activities,Review
+TT-001,Teacher Open Resource Guide,Teacher Training,BOSC Maintainers,resources/categories/teacher-training.md,CC BY 4.0,Teachers,Low bandwidth,Guide for selecting and adapting open classroom resources,Verified
+CIV-001,Civic Rights And Responsibilities,Civic Education,BOSC Maintainers,resources/categories/civic-education.md,CC BY-SA 4.0,Community learners,Offline friendly,Introductory civic education topics for discussion groups,Verified
+LL-001,Local Language Contribution Guide,Local Language Support,BOSC Maintainers,resources/categories/local-language-support.md,CC BY 4.0,Teachers and translators,Low bandwidth,Guidance for adding translated summaries and local examples,Draft

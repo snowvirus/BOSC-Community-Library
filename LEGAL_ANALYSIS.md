@@ -1,5 +1,9 @@
 # Legal Audit And Disciplinary Rationale
 
+Student: Bazzenkya Francis  
+Registration Number: 23/BSE/BU/R/0005  
+Programme: Bachelor of Science in Software Engineering, Bugema University
+
 ## Chosen License: Apache License 2.0
 
 For the BOSC Community Library, I chose the Apache License 2.0 because it fits the kind of public education project I am building as a Bachelor of Science in Software Engineering student at Bugema University. The project is not meant to be a private system owned by one person. It is meant to be a shared community library where schools, teachers, learners, and other developers can use the resources, improve them, and still understand their legal responsibilities.
