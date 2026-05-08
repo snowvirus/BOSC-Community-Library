@@ -1,5 +1,11 @@
-# Local Language Support
+---
+title: Local Language Support
+last_updated: 2026-05-08
+status: verified
+maintainer: Bazzenkya Francis
+---
 
+# Local Language Support
 Local language support helps contributors add translated summaries, local examples, and culturally relevant descriptions.
 
 ## Included Resources
