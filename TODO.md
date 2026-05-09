@@ -2,6 +2,8 @@
 
 Use these entries to create the five GitHub issues before continuing implementation work. Each `TODO:` line is written so VS Code TODO extensions can index the backlog.
 
+When this file and `.github/workflows/sync-todo-issues.yml` are pushed to the `main` branch, GitHub Actions will read this file and create any missing GitHub issues by title. The workflow can also be run manually from the repository's **Actions** tab.
+
 ---
 
 ## TODO: Issue #1 - Fix broken resource links
