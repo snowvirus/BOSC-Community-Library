@@ -21,7 +21,7 @@ def search_resources(query, filename='resources/resource-database.csv'):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python search_resources.py <query>")
+        print("Usage: python3 scripts/search_resources.py <query>")
         sys.exit(1)
     
     query = sys.argv[1]

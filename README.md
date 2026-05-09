@@ -16,19 +16,28 @@ The idea behind the project is to collect and organize learning resources that c
 
 ```text
 .
-├── .github/                  # Issue and pull request templates
-├── docs/                     # Proposal, reflection, audit log, and work plan
-├── governance/               # Code of Conduct and Contributing guide
-├── resources/                # Resource catalogue and category files
+├── .github/                  # GitHub issue, pull request, and workflow files
+├── docs/                     # Exam evidence, proposal, reflection, and audit log
+├── governance/               # Community rules and contribution process
+├── resources/                # Resource catalogue, categories, and translations
 │   ├── categories/
 │   ├── local-language/
 │   └── resource-database.csv
-├── scripts/                  # Utility scripts (Search tool)
+├── scripts/                  # Utility scripts for working with the catalogue
 ├── LEGAL_ANALYSIS.md
 ├── LICENSE
 ├── README.md
 └── SUSTAINABILITY.md
 ```
+
+## Navigation Guide
+
+- Start with this README for the project purpose, category links, and contribution summary.
+- Use [docs/README.md](docs/README.md) for exam evidence, submission tracking, proposal material, and reflection notes.
+- Use [governance/README.md](governance/README.md) for the Code of Conduct and contributor workflow.
+- Use [resources/README.md](resources/README.md) for the catalogue structure, category files, local language content, and CSV database.
+- Use [scripts/README.md](scripts/README.md) for command-line tools that help search or maintain the library.
+- Read [LEGAL_ANALYSIS.md](LEGAL_ANALYSIS.md) and [SUSTAINABILITY.md](SUSTAINABILITY.md) for licensing, reuse, and long-term maintenance decisions.
 
 ## Resource Categories
 
@@ -46,7 +55,6 @@ The searchable resource index is stored in [resources/resource-database.csv](res
 Contributors should open an issue first, create a branch for the work, make a focused change, and then submit a pull request for review. This workflow is part of the exam requirement and also reflects normal open source practice.
 
 See [governance/CONTRIBUTING.md](governance/CONTRIBUTING.md) for the full process.
-
 
 ## License
 
