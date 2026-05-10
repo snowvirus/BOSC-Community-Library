@@ -37,7 +37,12 @@ The idea behind the project is to collect and organize learning resources that c
 - [Civic Education](resources/categories/civic-education.md)
 - [Local Language Support](resources/categories/local-language-support.md)
 
-The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv).
+The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv). You can search it by keyword or category using the [search_resources.py](scripts/search_resources.py) script:
+
+```bash
+python3 scripts/search_resources.py digital
+python3 scripts/search_resources.py --category "Teacher Training"
+```
 
 ## Contributing
 

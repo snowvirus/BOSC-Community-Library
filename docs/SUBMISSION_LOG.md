@@ -24,7 +24,7 @@ Add screenshots showing commits spread across the exam week.
 | #1 | Functional bug | `fix/resource-link-validation` | PR link here | Screenshot/comment link | Pending |
 | #2 | Functional bug | `fix/category-metadata` | PR link here | Screenshot/comment link | Pending |
 | #3 | Feature enhancement | `feat/local-language-support` | PR link here | Screenshot/comment link | Pending |
-| #4 | Feature enhancement | `feat/searchable-resource-database` | PR link here | Screenshot/comment link | Pending |
+| #4 | Feature enhancement | `feat/searchable-resource-database` | Merged into main | Commit: feat: implement searchable resource database | Resolved |
 | #5 | Refactoring/maintenance | `refactor/resource-organization` | PR link here | Screenshot/comment link | Pending |
 
 ## Resolved Issue Screenshots
