@@ -27,7 +27,6 @@ Add screenshots showing commits spread across the exam week.
 | #4 | Feature enhancement | `feat/searchable-resource-database` | Merged into main | Commit: feat: implement searchable resource database | Resolved |
 | #5 | Refactoring/maintenance | `refactor/resource-organization` | Merged into main | Commit: refactor: reorganize repository structure | Resolved |
 
-
 ## Resolved Issue Screenshots
 
 Add screenshots after each issue is closed and its pull request is merged.

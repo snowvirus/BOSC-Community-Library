@@ -48,7 +48,12 @@ The idea behind the project is to collect and organize learning resources that c
 - [Local Language Support](resources/categories/local-language-support.md)
 - [Luganda Summary](resources/local-language/luganda-summary.md)
 
-The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv). You can search it using the [search_resources.py](scripts/search_resources.py) script.
+The searchable resource index is stored in [resources/resource-database.csv](resources/resource-database.csv). You can search it by keyword or category using the [search_resources.py](scripts/search_resources.py) script:
+
+```bash
+python3 scripts/search_resources.py digital
+python3 scripts/search_resources.py --category "Teacher Training"
+```
 
 ## Contributing
 
