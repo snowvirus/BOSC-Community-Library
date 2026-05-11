@@ -25,7 +25,7 @@ Digital literacy resources help learners use computers, mobile devices, files, a
 - Audience: Beginner computer users
 - Connectivity: Offline friendly
 - Summary: Practice topics for keyboard use, folders, filenames, and simple document organization.
-- Resource Link: [Download PDF Guide](https://example.org/guides/keyboard-basics.pdf)
+- Access Note: Offline-friendly practice guidance is maintained in this catalogue entry; no external download is required.
 
 ### Online Safety for Students
 
@@ -36,7 +36,10 @@ Digital literacy resources help learners use computers, mobile devices, files, a
 - Summary: A guide to staying safe online.
 - Resource Link: [View Online Safety Module](https://www.commonsense.org/education/digital-citizenship)
 
+## Link Validation Notes
 
+- Checked on 2026-05-11: removed the broken placeholder PDF link for Keyboard And File Management.
+- Checked on 2026-05-11: the Online Safety for Students module returned HTTP 200.
 
 ## Maintenance Notes
 
