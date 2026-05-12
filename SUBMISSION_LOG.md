@@ -11,11 +11,13 @@
 
 ## Git Activity Screenshots
 
-Add screenshots showing commits spread across the exam week.
+Screenshots showing consistent repository activity, merged pull requests, and the contribution graph for the exam week.
 
-- [x] Screenshot: GitHub commits page
-- [x] Screenshot: GitHub contribution graph for exam week
-- [x] Screenshot: repository main page showing latest activity
+### GitHub Pulse & Activity Summary
+![GitHub Pulse Summary](docs/assets/screenshots/git-pulse-summary.png)
+
+### GitHub Contribution Graph
+![GitHub Contribution Graph](docs/assets/screenshots/github-contribution-graph.png)
 
 ## Five-Issue Mastery Challenge
 
@@ -27,15 +29,13 @@ Add screenshots showing commits spread across the exam week.
 | #4 | Feature enhancement | `feat/searchable-resource-database` | Merged into main | Commit: feat: implement searchable resource database | Resolved |
 | #5 | Refactoring/maintenance | `refactor/resource-organization` | Merged into main | Commit: refactor: reorganize repository structure | Resolved |
 
-## Resolved Issue Screenshots
+## Resolved Issue & Pull Request Evidence
 
-Add screenshots after each issue is closed and its pull request is merged.
+### Closed Issues List
+![GitHub Closed Issues](docs/assets/screenshots/github-closed-issues.png)
 
-- [x] Issue #1 screenshot
-- [x] Issue #2 screenshot
-- [x] Issue #3 screenshot
-- [x] Issue #4 screenshot
-- [x] Issue #5 screenshot
+### Merged Pull Requests
+![GitHub Merged Pull Requests](docs/assets/screenshots/github-merged-prs.png)
 
 ## Final Checklist
 
