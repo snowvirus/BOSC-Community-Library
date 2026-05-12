@@ -22,7 +22,7 @@ Add screenshots showing commits spread across the exam week.
 | Issue | Type | Branch | Pull Request | Review Evidence | Status |
 |---|---|---|---|---|---|
 | #1 | Functional bug | `fix/resource-link-validation` | Merged into main | Commit: fix: resolve broken resource links | Resolved |
-| #2 | Functional bug | `fix/category-metadata` | Merged into main | Commit: fix: standardize category metadata | Resolved |
+| #2 | Functional bug | `fix/category-metadata` | Merged into main | Commit: fix: standardize and align metadata | Resolved & Aligned |
 | #3 | Feature enhancement | `feat/local-language-support` | Merged into main | Commit: feat: add Luganda language support | Resolved |
 | #4 | Feature enhancement | `feat/searchable-resource-database` | Merged into main | Commit: feat: implement searchable resource database | Resolved |
 | #5 | Refactoring/maintenance | `refactor/resource-organization` | Merged into main | Commit: refactor: reorganize repository structure | Resolved |
