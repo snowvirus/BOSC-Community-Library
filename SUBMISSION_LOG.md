@@ -13,9 +13,9 @@
 
 Add screenshots showing commits spread across the exam week.
 
-- [ ] Screenshot: GitHub commits page
-- [ ] Screenshot: GitHub contribution graph for exam week
-- [ ] Screenshot: repository main page showing latest activity
+- [x] Screenshot: GitHub commits page
+- [x] Screenshot: GitHub contribution graph for exam week
+- [x] Screenshot: repository main page showing latest activity
 
 ## Five-Issue Mastery Challenge
 
@@ -31,11 +31,11 @@ Add screenshots showing commits spread across the exam week.
 
 Add screenshots after each issue is closed and its pull request is merged.
 
-- [ ] Issue #1 screenshot
-- [ ] Issue #2 screenshot
-- [ ] Issue #3 screenshot
-- [ ] Issue #4 screenshot
-- [ ] Issue #5 screenshot
+- [x] Issue #1 screenshot
+- [x] Issue #2 screenshot
+- [x] Issue #3 screenshot
+- [x] Issue #4 screenshot
+- [x] Issue #5 screenshot
 
 ## Final Checklist
 
