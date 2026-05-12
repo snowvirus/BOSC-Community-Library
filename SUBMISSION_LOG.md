@@ -39,16 +39,16 @@ Add screenshots after each issue is closed and its pull request is merged.
 
 ## Final Checklist
 
-- [ ] Public GitHub repository is accessible.
-- [ ] License is present.
-- [ ] Code of Conduct is present.
-- [ ] Contributing guide is present.
-- [ ] Issue template is present.
-- [ ] Pull request template is present.
-- [ ] Legal analysis is complete.
-- [ ] Sustainability strategy is complete.
-- [ ] Government proposal is complete.
-- [ ] Reflective journal is personalized and complete.
-- [ ] Five issues are closed.
-- [ ] Five pull requests are merged.
-- [ ] Peer review comments are visible.
+- [x] Public GitHub repository is accessible.
+- [x] License is present.
+- [x] Code of Conduct is present.
+- [x] Contributing guide is present.
+- [x] Issue template is present.
+- [x] Pull request template is present.
+- [x] Legal analysis is complete.
+- [x] Sustainability strategy is complete.
+- [x] Government proposal is complete.
+- [x] Reflective journal is personalized and complete.
+- [x] Five issues are closed.
+- [x] Five pull requests are merged.
+- [x] Peer review comments are visible.
