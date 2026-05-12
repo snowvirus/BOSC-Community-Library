@@ -22,7 +22,7 @@ Add screenshots showing commits spread across the exam week.
 | Issue | Type | Branch | Pull Request | Review Evidence | Status |
 |---|---|---|---|---|---|
 | #1 | Functional bug | `fix/resource-link-validation` | Merged into main | Commit: fix: resolve broken resource links | Resolved |
-| #2 | Functional bug | `fix/category-metadata` | Merged into main | Commit: fix: standardize category metadata | Resolved |
+| #2 | Functional bug | `fix/category-metadata` | Merged into main | Commit: fix: standardize and align metadata | Resolved & Aligned |
 | #3 | Feature enhancement | `feat/local-language-support` | Merged into main | Commit: feat: add Luganda language support | Resolved |
 | #4 | Feature enhancement | `feat/searchable-resource-database` | Merged into main | Commit: feat: implement searchable resource database | Resolved |
 | #5 | Refactoring/maintenance | `refactor/resource-organization` | Merged into main | Commit: refactor: reorganize repository structure | Resolved |
@@ -39,16 +39,16 @@ Add screenshots after each issue is closed and its pull request is merged.
 
 ## Final Checklist
 
-- [ ] Public GitHub repository is accessible.
-- [ ] License is present.
-- [ ] Code of Conduct is present.
-- [ ] Contributing guide is present.
-- [ ] Issue template is present.
-- [ ] Pull request template is present.
-- [ ] Legal analysis is complete.
-- [ ] Sustainability strategy is complete.
-- [ ] Government proposal is complete.
-- [ ] Reflective journal is personalized and complete.
-- [ ] Five issues are closed.
-- [ ] Five pull requests are merged.
-- [ ] Peer review comments are visible.
+- [x] Public GitHub repository is accessible.
+- [x] License is present.
+- [x] Code of Conduct is present.
+- [x] Contributing guide is present.
+- [x] Issue template is present.
+- [x] Pull request template is present.
+- [x] Legal analysis is complete.
+- [x] Sustainability strategy is complete.
+- [x] Government proposal is complete.
+- [x] Reflective journal is personalized and complete.
+- [x] Five issues are closed.
+- [x] Five pull requests are merged.
+- [x] Peer review comments are visible.

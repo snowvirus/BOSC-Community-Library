@@ -1,7 +1,7 @@
 ---
 title: Open Science
 last_updated: 2026-05-08
-status: verified
+status: Review
 maintainer: Bazzenkya Francis
 ---
 

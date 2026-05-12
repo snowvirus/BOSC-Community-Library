@@ -7,7 +7,7 @@ The `docs/` directory contains project evidence, planning notes, and public-sect
 - [EXAM_WORK_PLAN.md](EXAM_WORK_PLAN.md) tracks the seven-day implementation workflow and issue plan.
 - [GOVERNMENT_PROPOSAL.md](GOVERNMENT_PROPOSAL.md) explains how the project could support public education and reduce vendor lock-in.
 - [REFLECTIVE_JOURNAL.md](REFLECTIVE_JOURNAL.md) records personal learning, challenges, and open source practice.
-- [SUBMISSION_LOG.md](SUBMISSION_LOG.md) records repository evidence, issue work, pull requests, review notes, and final submission checks.
+- [SUBMISSION_LOG.md](../SUBMISSION_LOG.md) records repository evidence, issue work, pull requests, review notes, and final submission checks.
 
 ## Maintenance Notes
 
