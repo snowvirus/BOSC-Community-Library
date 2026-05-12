@@ -1,7 +1,7 @@
 ---
 title: Digital Literacy
 last_updated: 2026-05-08
-status: verified
+status: Verified
 maintainer: Bazzenkya Francis
 ---
 
